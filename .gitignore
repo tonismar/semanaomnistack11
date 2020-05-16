@@ -1,0 +1,3 @@
+backend/src/database/db.sqlite
+backend/src/database/migrations
+backend/src/database/test.sqlite
